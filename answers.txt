@@ -1,0 +1,5 @@
+Q1: 07ba3484
+Q2: 2
+Q3: You would run "git pull" since it takes in the change of your teammates work into your local branch, then you can push.
+Q4: No because we first pushed it GitHub before putting it into .gitignore, to make it protected you would run first gitignore then push secrets.env
+Q5: Local: git branch -d old-fix, GitHub: git push origin --delete old-fix 
